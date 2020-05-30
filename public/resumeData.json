@@ -4,10 +4,11 @@
     "occupation": "third year Computer Science Major",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "Hi! I'm Monil Kaneria. I am persuing a bachelor's degree in Computer Science at the Georgia Institute of Technology with consentration in computing devices and artificial intelligence. I aspire to be a software developer and contribute towards solving some of the fundamental problems we face today. In my free time I like to explore different coding projects, watch soccer on TV and play PS4 game. I am a member of the machine learning/AI club at georgia tech called \"The Agency\", where we learn and apply concepts of machine learning using python.",
+    "goal": "Software Engineering Internships for Summer 2021.",
+    "contactmessage": "Contact Me",
     "email": "kaneriamonil@gmail.com",
-    "phone": "(256) 631-7491",
+    "phone": "+1 (256) 631-7491",
     "institute": "Georgia Tech",
     "address": {
       "street": "",
@@ -15,88 +16,82 @@
       "state": "GA",
       "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://monilkaneria.netlify.app",
+    "resumedownload": "/Monil Kaneria Resume for website.pdf",
     "social": [
       {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/monil-kaneria",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Monil007",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/monil_7499",
+        "className": "fa fa-instagram"
+      },
+      {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "http://facebook.com/monil.kaneria",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "http://twitter.com/monil_007",
         "className": "fa fa-twitter"
-      },
-      {
-        "name": "google-plus",
-        "url": "http://googleplus.com/tbakerx",
-        "className": "fa fa-google-plus"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "My Top Programming Skills",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Georgia Institute of Technology",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "expected graduation: May 2022",
+        "description": "GPA: 3.31 | Dean's List: fall 2019, spring 2020"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "The UPS Store",
+        "title": "Graphic Designer",
+        "years": "June 2018 – June 2019",
+        "description": "Worked at The UPS Store in Madison AL as a graphic designer. Interacted with over 50 customers in the span of 11 months and successfully managed to fulfill their demands which included designing various banners, posters, business cards, yard signs and brochures created using Adobe Illustrator and Adobe Photoshop."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Interact Club",
+        "title": "Senior Education Intern",
+        "years": "June 2016 - Jan 2018",
+        "description": "Worked as a member of Interact Club. Lead a team of 10 fellow students and taught Mathematics to over 150 children in the course of 2 years."
+      },
+      {
+        "company": "Green Revolution Program",
+        "title": "Climate Counselling Ambassador",
+        "years": "Aug 2017 – Nov 2017",
+        "description": "Worked in the Green Revolution Program, organized by International Center for Culture & Education (ICCE) in collaboration with The United Nations and NASA. The main objective was to lead the campaign as a climate counselling ambassador for spreading awareness about climate change in the neighborhood. The primary tasks were to sell recycled pencils with seeds of different plants attached to it and give door to door speeches about climate conservation."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Java",
+        "level": "90%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "CSS",
@@ -104,49 +99,61 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "express",
+        "level": "60%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "60%"
+      },
+      {
+        "name": "node.js",
+        "level": "75%"
+      },
+      {
+        "name": "MS Office",
+        "level": "95%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "The Chat Bee",
+        "category": "A JavaScript based frontend chat application created using React",
+        "image": "thechatbee.jpg",
+        "url": "https://www.thechatbee.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "The Shopping List",
+        "category": "A Java Script based full stack application built using the MERN stack",
+        "image": "myshoppinglist.jpg",
+        "url": "https://serene-hamlet-05269.herokuapp.com/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Portfolio Website",
+        "category": "A React based portfolio website",
+        "image": "website.jpg",
+        "url": "https://monilkaneria.netlify.app/"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Blackjack",
+        "category": "Command-line based blackjack game in python",
+        "image": "blackjack.jpg",
+        "url": "https://github.com/Monil007/blackjack-in-python"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "TicTacToe",
+        "category": "Command-line based tictactoe game in python",
+        "image": "tictactoe.jpg",
+        "url": "https://github.com/Monil007/tictactoe-in-python"
       }
     ]
   },
