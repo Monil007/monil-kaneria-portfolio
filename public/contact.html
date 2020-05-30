@@ -2,18 +2,34 @@
 <html>
   <head>
     <title>Contact Me</title>
+    <link rel="stylesheet" href="./css/contact.css" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/m-icon.ico" />
   </head>
   <body>
+    <h2 class="heading">Contact Form</h2>
     <form action="POST" data-netlify="true">
       <div class="fields">
-        <div class="field half">
-          <input type="text" name="name" id="name" placeholder="Name" />
+        <div class="field">
+          <input
+            class="inputfield"
+            type="text"
+            name="name"
+            id="name"
+            placeholder="Name"
+          />
         </div>
-        <div class="field half">
-          <input type="email" name="email" id="email" placeholder="Email" />
+        <div class="field">
+          <input
+            class="inputfield"
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Email"
+          />
         </div>
         <div class="field">
           <textarea
+            class="inputfield"
             name="message"
             id="message"
             placeholder="Message"
@@ -21,7 +37,7 @@
             rows="10"
           ></textarea>
         </div>
-        <div class="field">
+        <div class="fieldhalf">
           <input
             type="file"
             name="myfile"
@@ -30,7 +46,7 @@
             rows="7"
           />
         </div>
-        <div class="field">
+        <div class="fieldhalf">
           <div data-netlify-recaptcha="true"></div>
         </div>
       </div>

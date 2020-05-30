@@ -1,0 +1,77 @@
+body {
+  /* margin-left: 40%;
+  margin-top: 5%;
+  margin-right: 40%;
+  margin-bottom: 5%; */
+  background-color: #fff;
+}
+
+.heading {
+  font-size: 3rem;
+  background-color: #ce6b07;
+  text-align: center;
+  color: #fff;
+  border-radius: 100px;
+}
+
+.fieldhalf {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ce6b07;
+  text-align: center;
+}
+
+.fieldhalf input {
+  width: 15rem;
+  height: 3rem;
+  border: 10px solid #fff;
+  border-radius: 20px;
+}
+
+.field {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ce6b07;
+  text-align: center;
+}
+
+.field input {
+  width: 20rem;
+  height: 2rem;
+  background-color: #ce6b07;
+  border: 10px solid #fff;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.field textarea {
+  width: 20rem;
+  height: 15rem;
+  background-color: #ce6b07;
+  border: 10px solid #fff;
+  border-radius: 20px;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.actions {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ce6b07;
+  text-align: center;
+}
+
+.actions input {
+  width: 15rem;
+  height: 5rem;
+  border: 10px solid #fff;
+  border-radius: 100px;
+  background-color: #ce6b07;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.inputfield {
+  width: 15rem;
+}

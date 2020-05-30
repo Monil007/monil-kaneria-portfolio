@@ -934,6 +934,12 @@ call-to-action .button {
 }
 
 /* contact form */
+
+.contactform {
+  align-items: center;
+  margin-left: 25%;
+}
+
 #contact form {
   margin-bottom: 30px;
 }
