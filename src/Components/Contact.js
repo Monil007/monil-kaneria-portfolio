@@ -144,6 +144,9 @@ class Contact extends Component {
                 </li>
               </ul>
             </div> */}
+            <a href={"/contact.html"} className="button">
+              <i className="fa fa-download"></i>contact form
+            </a>
           </aside>
         </div>
       </section>

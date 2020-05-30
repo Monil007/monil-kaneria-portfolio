@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contact Me</title>
+  </head>
+  <body>
+    <form action="POST" data-netlify="true">
+      <div class="fields">
+        <div class="field half">
+          <input type="text" name="name" id="name" placeholder="Name" />
+        </div>
+        <div class="field half">
+          <input type="email" name="email" id="email" placeholder="Email" />
+        </div>
+        <div class="field">
+          <textarea
+            name="message"
+            id="message"
+            placeholder="Message"
+            cols="30"
+            rows="10"
+          ></textarea>
+        </div>
+        <div class="field">
+          <input
+            type="file"
+            name="myfile"
+            id="myfile"
+            placeholder="Upload File"
+            rows="7"
+          />
+        </div>
+        <div class="field">
+          <div data-netlify-recaptcha="true"></div>
+        </div>
+      </div>
+      <div class="actions">
+        <input type="submit" value="Send Message" class="button primary" />
+      </div>
+    </form>
+  </body>
+</html>
