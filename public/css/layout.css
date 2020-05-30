@@ -697,14 +697,37 @@ call-to-action .button {
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
 
+.blog {
+  /* margin-left: 25rem; */
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.blogbutton {
+  width: 20rem;
+  height: 7rem;
+  font-size: 3rem;
+  border-radius: 10px;
+  background-color: #ce6b07;
+  color: #fff;
+}
+
+.blogbutton:hover {
+  background-color: #fff;
+  color: #ce6b07;
+}
+
 #testimonials {
   background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
 
+  padding-top: 6%;
+  padding-bottom: 30%;
   position: relative;
-  min-height: 200px;
+  min-height: 250px;
+  height: 500px;
   width: 100%;
   overflow: hidden;
 }
@@ -748,13 +771,13 @@ call-to-action .button {
 #testimonials blockquote p {
   font-family: "librebaskerville-italic", serif;
   padding: 0;
-  font-size: 24px;
+  font-size: 25px;
   line-height: 48px;
   color: #fff;
 }
 #testimonials blockquote cite {
   display: block;
-  font-size: 12px;
+  font-size: 17px;
   font-style: normal;
   line-height: 18px;
   color: #fff;
@@ -937,7 +960,8 @@ call-to-action .button {
 
 .contactform {
   align-items: center;
-  margin-left: 25%;
+  /* margin-left: 25%; */
+  text-align: center;
 }
 
 #contact form {
@@ -980,7 +1004,8 @@ call-to-action .button {
   height: auto;
   display: inline-block;
   border-radius: 3px;
-  margin-left: 26%;
+  /* margin-left: 24%; */
+  text-align: center;
 }
 #contact button.submit:hover {
   color: #ce6b07;

@@ -42,7 +42,7 @@ body {
   border: 10px solid #fff;
   border-radius: 20px;
   color: #fff;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 .field textarea {
@@ -52,7 +52,7 @@ body {
   border: 10px solid #fff;
   border-radius: 20px;
   color: #fff;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .actions {

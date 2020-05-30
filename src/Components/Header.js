@@ -19,6 +19,7 @@ class Header extends Component {
       });
     }
 
+    //TODO: add blog link
     return (
       <header id="home">
         <nav id="nav-wrap">
@@ -52,7 +53,7 @@ class Header extends Component {
             </li>
             <li>
               <a className="smoothscroll" href="#testimonials">
-                Testimonials
+                Blog
               </a>
             </li>
             <li>

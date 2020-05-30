@@ -28,7 +28,7 @@ class Contact extends Component {
           </div>
         </div>
         <div className="contactform">
-          <a href="/contact.html">
+          <a href="/contact.html" target="_blank">
             <button className="submit">Contact Form</button>
           </a>
         </div>
